@@ -78,7 +78,7 @@
     "slp-sdk": "git://github.com/lucasmgv/slp-sdk.git#feat/bulk_slp_transactions",
     "style-loader": "1.0.0",
     "styled-components": "^4.4.0",
-    "terser-webpack-plugin": "1.4.1",
+    "terser-webpack-plugin": "1.4.4",
     "ts-pnp": "1.1.4",
     "url-loader": "2.1.0",
     "webpack": "4.40.2",
